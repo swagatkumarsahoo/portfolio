@@ -2,7 +2,7 @@
 
 **Java Full Stack Developer** · Spring Boot · React · REST APIs
 
-Live: [swagatkumar.dev](https://swagatkumar.dev)
+Live: https://swagatkumarsahoo.vercel.app/
 
 ---
 
